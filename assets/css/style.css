@@ -11,7 +11,7 @@ body, html {
     text-align: center;
     padding: 20px 0; /* Space around the header */
     font-family: "rl-aqva", sans-serif; /* Use RL-Aqva font */
-    font-weight: 900; /* Bold weight */
+    font-weight: 500; /* Bold weight */
     font-style: normal; /* Normal style */
     font-size: 2rem; /* Header font size */
     color: #ac8887; /* White font */
