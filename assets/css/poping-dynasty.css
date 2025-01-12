@@ -1,0 +1,25 @@
+/* Reset body and html */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4; /* Light background for a unique look */
+    font-family: 'Georgia', serif; /* A different font for this page */
+}
+
+/* Header Styling */
+.lp-header {
+    text-align: left;
+    padding: 10px 20px;
+    background-color: #333; /* Dark header background */
+    color: #fff; /* White text for contrast */
+    font-size: 1.8rem;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+    line-height: 1.8; /* Improve readability */
+    color: #444; /* Softer text color */
+    font-size: 1.2rem; /* Larger font size for better readability */
+}
